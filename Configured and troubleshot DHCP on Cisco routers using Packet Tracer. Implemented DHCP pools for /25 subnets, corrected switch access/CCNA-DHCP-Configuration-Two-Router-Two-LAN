@@ -1,0 +1,3 @@
+Configured and troubleshot DHCP on Cisco routers using Packet Tracer.
+Implemented DHCP pools for /25 subnets, corrected switch access/trunk issues,
+and verified dynamic IP assignment without using RIP.
